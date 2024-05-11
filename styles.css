@@ -6,6 +6,7 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #top_div{
@@ -38,7 +39,7 @@ body{
     justify-content: left;
     text-align: start;
     font-size: xx-large;
-    font-weight: bold;
+    font-weight: bolder;
     /* line-height: 35px; */
 
 }
@@ -46,7 +47,7 @@ body{
 #center_div{
     margin-top: 30px;
     text-align: center;
-    font-size: x-large;
+    font-size: xx-large;
     padding: 0px 10%;
 
 }
@@ -55,19 +56,19 @@ body{
     width: 100%;
     display: flex;
     justify-content: center;
-    font-size: x-large;
+    font-size: xx-large;
     margin: auto;
 
 }
 
 #skills_list{
-margin: auto;
-padding: auto;
+    margin: auto;
+    padding: auto;
 }
 
 #hobbies_list{
-margin: auto;
-padding: auto;
+    margin: auto;
+    padding: auto;
 
 }
 
