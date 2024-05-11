@@ -1,0 +1,76 @@
+body{
+    margin: auto;
+    background-color: rgb(228, 203, 165);
+    padding: 30px;
+    border-radius: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#top_div{
+    margin:auto;
+    width: 100%;
+    height: fit-content;
+    /* padding: 30px; */
+    display: flex;
+    align-content: space-between;
+    font-size: large;
+
+}
+
+#photo_div{
+    background-color: white;
+    width: 40%;
+    height: 300px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+#hello_div{
+    width: 40%;
+    height: 300px;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: left;
+    text-align: start;
+    font-size: xx-large;
+    font-weight: bold;
+    /* line-height: 35px; */
+
+}
+
+#center_div{
+    margin-top: 30px;
+    text-align: center;
+    font-size: x-large;
+    padding: 0px 10%;
+
+}
+
+#bottom_div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin: auto;
+
+}
+
+#skills_list{
+margin: auto;
+padding: auto;
+}
+
+#hobbies_list{
+margin: auto;
+padding: auto;
+
+}
+
+h2{
+    text-align: center;
+}

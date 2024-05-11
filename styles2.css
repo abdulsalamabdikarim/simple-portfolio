@@ -1,0 +1,71 @@
+#parent_div{
+    padding: 10%;
+}
+
+#title_div{
+    text-align: center;
+    margin: auto;
+
+}
+
+#announcement_div{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+
+}
+#bottom_div{
+    display: inline-flex;
+    margin-top: 30px;
+    padding: 30px;
+    width: 100%;
+
+}
+
+#center_div{
+    display: flex;
+    margin: auto;
+    padding: 30px;
+    width: 100%;
+    align-content: flex-start;
+
+}
+
+#image_div{
+    padding: 10px;
+    background-color: rgb(195, 197, 198);
+    margin: auto;
+    height: 441.6px;
+    border-radius: 10px;
+    width: 300px;
+
+
+}
+
+#names_div{
+    padding: 10px;
+    background-color: rgb(195, 197, 198);
+    margin: auto;
+    height: auto;
+    border-radius: 10px;
+    width: 300px;
+
+}
+
+#order_div{
+    padding: 15px;
+    background-color: rgb(195, 197, 198);
+    margin: auto;
+    border-radius: 15px;
+    width: 300px;
+    font-size: x-large;
+
+
+}
+
+#dresscode_div{
+    padding: 10px;
+    margin: auto;
+
+
+}
